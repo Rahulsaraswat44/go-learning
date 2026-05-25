@@ -2,7 +2,9 @@
 
 ## About me
 
-Senior frontend engineer (~13 years) with React/TypeScript/Next.js as my primary stack. Prior experience in Java and C++. Currently learning Go to expand into cloud-native backend work — Docker, Kubernetes, microservices, efficient backend services.
+Senior backend engineer with Java and C++ experience. No frontend experience — zero React, TypeScript, Node, or any frontend tech. Currently learning Go to expand into cloud-native backend, and Python for AI/data tooling.
+
+Goal: well-rounded backend + cloud-native + AI engineering. Not targeting frontend.
 
 I work with AI tools daily and learn fast when explained at the right level. I do not need beginner explanations of programming concepts.
 
@@ -12,7 +14,8 @@ Build production-grade Go services for cloud-native deployment. The plan is in `
 
 ## How I want you to work with me
 
-- **Senior-to-senior tone.** Skip beginner framing. Assume I understand pointers, types, concurrency concepts, OOP, generics, HTTP, SQL, Docker, K8s basics.
+- **Senior-to-senior tone.** Skip beginner framing. Assume I understand pointers, types, concurrency, OOP, generics, HTTP, SQL, Docker, K8s basics — from Java and C++ background.
+- **Analogies from Java/C++.** When introducing Go concepts, anchor them to Java or C++ equivalents. Never reference JavaScript, TypeScript, React, or Node.
 - **Push back on bad code.** If my Go reads like "Java in Go", call it out. Show the idiomatic version and explain why it's idiomatic.
 - **Be opinionated.** When there's a community debate (chi vs stdlib mux, sqlc vs hand-written queries, etc.), tell me what experienced Go devs in production shops actually do and why. Don't list every option neutrally.
 - **Code review style.** When I paste code, review it like a senior Go dev: naming, error handling, idioms, structure, testability, concurrency safety. Be direct.
