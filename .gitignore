@@ -1,0 +1,14 @@
+# Go binaries
+*.exe
+*.out
+
+# Downloaded installers / archives
+*.zip
+*.tar.gz
+
+# Build output inside exercises
+exercises/**/hello
+exercises/**/hello-*
+
+# Go module cache artifacts
+vendor/
